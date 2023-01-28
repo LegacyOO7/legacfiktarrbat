@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/ritheshrkrm/PiroAutoFilterBot",
-    "repository": "https://github.com/ritheshrkrm/PiroAutoFilterBot",
+    "website": "https://github.com/LegacyOO7/legacfiktarrbat",
+    "repository": "https://github.com/LegacyOO7/legacfiktarrbat",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
